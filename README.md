@@ -1,45 +1,40 @@
-# VAPT Report
+# Week 5 – VAPT Assessment
 
-## Report Contents
+## Vulnerability Assessment and Penetration Testing
 
-The complete VAPT report contains the following sections:
+This project demonstrates a practical VAPT assessment performed in an authorized training environment.
 
-1. Objective
-2. Introduction
-3. Nmap – Network Scanning
-4. Nikto – Web Vulnerability Scan
-5. Burp Suite – Intercept Requests
-6. Findings
-7. Security Recommendations
-8. Screenshots and Evidence
-9. Conclusion
+## Tools Used
+
+| Tool | Purpose |
+|---|---|
+| Nmap | Network and service scanning |
+| Nikto | Web vulnerability scanning |
+| Burp Suite | HTTP request interception and analysis |
+
+## Practical Work
+
+### Nmap
+Network scanning, port discovery, service detection and version detection.
+
+### Nikto
+Web-server vulnerability and configuration assessment.
+
+### Burp Suite
+HTTP request interception and analysis.
 
 ## Evidence
 
-The practical evidence includes:
+Screenshots and scan results are included in the repository.
 
-### Nmap
+## Report
 
-- Nmap version
-- Basic network scan
-- TCP SYN scan
-- Service/version detection
-- Aggressive scan
-- Saved scan results
-
-### Nikto
-
-- Web vulnerability scan output
-
-### Burp Suite
-
-- Proxy settings
-- Browser proxy configuration
-- Intercepted request
-- HTTP history
+The complete VAPT report is included in the repository.
 
 ## Conclusion
 
-The VAPT process provided practical experience in identifying and analyzing potential security weaknesses using network scanning, web vulnerability scanning, and HTTP request interception.
+The VAPT practical provided hands-on experience in network scanning, web vulnerability assessment, and HTTP traffic analysis. The assessment also provided experience in collecting evidence, analyzing findings, and preparing security recommendations.
 
-The collected evidence was documented to support the assessment and security recommendations.
+## Scope
+
+All testing was performed only against an authorized training environment for educational purposes.
