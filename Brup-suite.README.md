@@ -24,3 +24,12 @@ Verify:
 `text
 IP Address: 127.0.0.1
 Port: 8080
+## Evidence
+
+### Burp Suite Screenshot 1
+
+![Burp Suite Screenshot 1](Brup%20Suite%201.jpg)
+
+### Burp Suite Screenshot 2
+
+![Burp Suite Screenshot 2](Brup%20Suite%202.jpg)
