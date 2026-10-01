@@ -1,40 +1,58 @@
-# Week 5 – VAPT Assessment
+# 🛡️ Week 5 – VAPT Assessment
 
-## Vulnerability Assessment and Penetration Testing
+## 🔐 Vulnerability Assessment and Penetration Testing
 
-This project demonstrates a practical VAPT assessment performed in an authorized training environment.
+> A practical VAPT assessment performed in an authorized training environment using industry-standard security testing tools.
 
-## Tools Used
+---
+
+## 📌 Project Overview
+
+This project demonstrates a practical Vulnerability Assessment and Penetration Testing (VAPT) exercise conducted in an authorized training environment.
+
+The assessment focuses on identifying security weaknesses, analyzing the results, documenting evidence, and explaining the findings in simple and understandable terms.
+
+---
+
+## 🎯 Objectives
+
+- Identify open ports and running services.
+- Perform web vulnerability scanning.
+- Intercept and analyze HTTP requests.
+- Identify potential security weaknesses.
+- Document findings with screenshots.
+- Understand the security impact of identified issues.
+- Provide suitable security recommendations.
+
+---
+
+## 🧰 Tools Used
 
 | Tool | Purpose |
-|---|---|
-| Nmap | Network and service scanning |
-| Nikto | Web vulnerability scanning |
-| Burp Suite | HTTP request interception and analysis |
+|------|---------|
+| 🔵 Nmap | Network discovery, port scanning and service enumeration |
+| 🟠 Nikto | Web server vulnerability and configuration scanning |
+| 🟣 Burp Suite | HTTP request interception and web security testing |
 
-## Practical Work
+---
 
-### Nmap
-Network scanning, port discovery, service detection and version detection.
+## 🔎 Assessment Methodology
 
-### Nikto
-Web-server vulnerability and configuration assessment.
+The assessment was performed using the following workflow:
 
-### Burp Suite
-HTTP request interception and analysis.
-
-## Evidence
-
-Screenshots and scan results are included in the repository.
-
-## Report
-
-The complete VAPT report is included in the repository.
-
-## Conclusion
-
-The VAPT practical provided hands-on experience in network scanning, web vulnerability assessment, and HTTP traffic analysis. The assessment also provided experience in collecting evidence, analyzing findings, and preparing security recommendations.
-
-## Scope
-
-All testing was performed only against an authorized training environment for educational purposes.
+`text
+Reconnaissance
+      ↓
+Port & Service Scanning
+      ↓
+Web Vulnerability Scanning
+      ↓
+HTTP Request Analysis
+      ↓
+Finding Identification
+      ↓
+Evidence Collection
+      ↓
+Risk Analysis
+      ↓
+Recommendations
