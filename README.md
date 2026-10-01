@@ -56,3 +56,6 @@ Evidence Collection
 Risk Analysis
       ↓
 Recommendations
+## 📊 VAPT Project Overview
+
+![Week 5 VAPT Assessment](a_clean_professional_infographic_style_poster_sl.png)
