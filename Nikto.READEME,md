@@ -8,3 +8,8 @@ To perform a web vulnerability scan using Nikto and identify server configuratio
 
 `bash
 nikto -h http://testphp.vulnweb.com
+## Evidence
+
+### Nikto Screenshot
+
+![Nikto Scan](Nikto%201.jpg)
